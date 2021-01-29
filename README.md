@@ -1,4 +1,8 @@
-# taller15
+# Taller 15 (Laboratorio)
+
+## Construcción de programas usando lectura y escritura de archivos
+
+
 
 ## Desarrolle los siguiente ejercicios
 * Se usará el proyecto de Netbean llamado **EjerciciosT15**
