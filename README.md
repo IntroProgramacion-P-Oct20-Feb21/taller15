@@ -48,11 +48,13 @@ Cantón PORTOVELO (24)
 ### Problema05
 * Trabaje en el paquetecinco y encuentre el promedio de sueldos de los trabajadores del conjunto de trabajadores registrados en el archivo datos2.csv. Atención, se necesita que el método leerRegistros de la clase LecturaArchivo devuelva el promedio solicitado.
 
+***
 
 ### Problema06
 * Trabaje en el paqueteseis y encuentre el promedio de sueldos de los trabajadores (solo de las personas que tiene una edad comprendida entre 30 y 35 años) del conjunto de trabajadores registrados en el archivo datos2.csv.
 Atención, se necesita que el método leerRegistros de la clase LecturaArchivo devuelva el promedio solicitado.
 
+***
 
 ### Problema07
 * Trabaje en el paquetesiete. En la clase Principal se necesita presentar la suma de los sueldos de los empleados de dos sucursales de una empresa.
@@ -60,3 +62,9 @@ Atención, se necesita que el método leerRegistros de la clase LecturaArchivo d
 	- Los empleados de la sucursal 2 están en el archivo data3.csv
 
 	Atención; en la clase  LecturaArchivo puede agregar un método adicional si lo requiere.
+
+***
+El manejo de archivos está basado en lo explicado en el texto: 
+
+* Dietel, P. y Dietel, H. (2016). Java Como Programar. Mexico:
+Pearson Prentice Hall.
